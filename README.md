@@ -8,5 +8,7 @@
 </ul>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyalesalami&count_private=true&show_icons=true&bg_color=000&icon_color=20C20E&title_color=aaa&text_color=20C20E"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oyalesalami&count_private=true&show_icons=true&include_all_commits=true&bg_color=000&icon_color=20C20E&title_color=aaa&text_color=20C20E"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyalesalami&langs_count=10&bg_color=000&icon_color=20C20E&title_color=aaa&text_color=20C20E)](https://github.com/anuraghazra/github-readme-stats)
