@@ -12,3 +12,7 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyaleSalami&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://twitter.com/oyalesalami">
+  <img align="right" alt="Salami Victor | Twitter" width="21px" src="https://raw.githubusercontent.com/oyalesalami/oyalesalami/master/twitter.svg" />
+</a>
