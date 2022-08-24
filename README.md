@@ -4,7 +4,7 @@
   <li> 🔭 I make games or at least I'm trying to :) </li>
   <li> 🌱 Currently interested in Compiler Architecture & Game Engine Architechture </li>
   <li> ⚡ Fun fact: ... In love with low level things </li>
-  <li> 📫 You can reach me at salamivictor15@gmail.com or on my [Twitter](https://twitter.com/oyalesalami) </li>
+  <li> 📫 You can reach me at salamivictor15@gmail.com </li>
 </ul>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Statistics">
